@@ -2,4 +2,4 @@
 
 https://aws.amazon.com/solutions/implementations/instance-scheduler-on-aws/
 
-release 1.0
+Release 1.0
